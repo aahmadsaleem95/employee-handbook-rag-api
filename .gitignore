@@ -1,0 +1,27 @@
+# ---- Python (backend) ----
+/__pycache__/
+/**/*.py[cod]
+/**/*.pyo
+/**/*.pyd
+/**/*.pyc
+/**/*.sqlite3
+/**/*.log
+
+# Virtual environments
+/venv/
+/.venv/
+/env/
+/ENV/
+
+# Environment Variables
+.env
+
+# Python tools
+.mypy_cache/
+
+# ---- Common files ----
+.DS_Store
+.vscode/
+.idea/
+*.log
+.history
