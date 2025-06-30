@@ -19,6 +19,7 @@ A Retrieval-Augmented Generation (RAG)-based microservice to answer questions fr
 
 ## 📁 Folder Structure
 
+```
 employee-handbook-rag-api/
 ├── main.py # FastAPI microservice
 ├── rag.py # Embedding, vector search, response generation
@@ -27,6 +28,7 @@ employee-handbook-rag-api/
 ├── employee_handbook.pdf # Your employee handbook
 ├── requirements.txt
 └── README.md
+```
 
 ---
 
